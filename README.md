@@ -23,5 +23,5 @@
 
 [twitter]: https://x.com/chhavipreetk
 [youtube]: https://www.youtube.com/channel/UCGLKEsBm7F4IePQztJ_1q9Q
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/chhavipreetk/
+[linkedin]: https://www.linkedin.com/in/chhavipreetk/
 
